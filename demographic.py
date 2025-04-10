@@ -51,9 +51,9 @@ df = load_data()
 app.layout = html.Div([
     # Header section
     html.Div([
-        html.H1("GDP vs Olympic Medals Analysis (1960-2022)", 
+        html.H1("GDP vs IMO Medals Analysis (1960-2022)", 
                 style={'textAlign': 'center', 'color': '#2c3e50', 'marginBottom': 30}),
-        html.P("Explore the relationship between country GDP and Olympic performance over time", 
+        html.P("Explore the relationship between country GDP and IMO performance over time", 
                style={'textAlign': 'center', 'color': '#7f8c8d'})
     ], style={'marginBottom': 40}),
     
@@ -242,9 +242,9 @@ df = load_data()
 app.layout = html.Div([
     # Header section
     html.Div([
-        html.H1("GDP vs Olympic Medals Analysis (1960-2022)", 
+        html.H1("GDP vs IMO Medals Analysis (1960-2022)", 
                 style={'textAlign': 'center', 'color': '#2c3e50', 'marginBottom': 30}),
-        html.P("Explore the relationship between country GDP and Olympic performance over time", 
+        html.P("Explore the relationship between country GDP and IMO performance over time", 
                style={'textAlign': 'center', 'color': '#7f8c8d'})
     ], style={'marginBottom': 40}),
     
