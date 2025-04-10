@@ -10,4 +10,9 @@ Members:
 ## Deliverables
 
 - [Proposal](./Proposal.md)
-- [Data](./datasets)
+- [Data](./data)
+- [Question 1](./competition_evolution.ipynb)
+- Question 2
+  - [Gender Equality](./gender.py)
+  - [GDP vs IMO results](./gdp.py)
+  - [GDP per capita vs IMO results](./gdp_per_capita.py)
